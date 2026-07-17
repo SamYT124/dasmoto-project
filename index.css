@@ -1,0 +1,45 @@
+h1 {
+    font-family: Helvetica;
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+}
+
+
+h2 {
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
+
+h3 {
+    font-family: Helvetica;
+}
+
+p {
+    color: black;
+    font-family: Helvetica;
+}
+
+.special {
+    font-family: Helvetica;
+    font-weight: bold;
+    color: blue;
+}
+
+.brushes {
+    background-color:greenyellow;
+}
+
+.frames {
+    background-color:orangered;
+}
+
+.paint {
+    background-color:cornflowerblue;
+}
+
+.bgover {
+    background-image: url('../pattern.jpeg');
+}
